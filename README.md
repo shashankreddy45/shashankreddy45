@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shashankreddy45
-- 👀 I’m interested in data.Whatever the process I can kill and clean the data.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on data analyst ,business analyst,data scientist.
+- 👀 Data science and AI enthusiast.There is a strong desire to travel and explore the world.Getting acquainted to cultures will be of help in the personal development.Want to    associate with a technical organisation that will allow me to utilize my abilities in the field to add value to the organization while providing me opportunities of growth.
 - 📫 You can reach me through my instagram: shashankreddy.45
 
 <!---
